@@ -12,3 +12,10 @@ This repository contains the solutions for the sample papers that I have solved.
 ![sampleTest3-Program06](https://user-images.githubusercontent.com/76808676/103482132-f6a86980-4e04-11eb-82b9-c43c6f613c65.png)
 
 # SAMPLE PAPER 4
+![sampleTest4-Program01](https://user-images.githubusercontent.com/76808676/103482322-3d4a9380-4e06-11eb-9026-7c6bda46ecec.png)
+![sampleTest4-Program02](https://user-images.githubusercontent.com/76808676/103482323-3de32a00-4e06-11eb-9efd-6dd670d954d6.png)
+![sampleTest4-Program03](https://user-images.githubusercontent.com/76808676/103482324-3e7bc080-4e06-11eb-8f2b-7b00547ed9ba.png)
+![sampleTest4-Program04](https://user-images.githubusercontent.com/76808676/103482326-3f145700-4e06-11eb-8247-22a0a6df3c35.png)
+![sampleTest4-Program05](https://user-images.githubusercontent.com/76808676/103482327-3f145700-4e06-11eb-8035-a197e58a9cba.png)
+![sampleTest4-Program06](https://user-images.githubusercontent.com/76808676/103482328-3faced80-4e06-11eb-8620-a11f8ec85507.png)
+
